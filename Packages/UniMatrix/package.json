@@ -1,0 +1,11 @@
+{
+    "name": "jp.hizono.unimatrix",
+    "author": "Tsubasa Hizono",
+    "version": "0.1.0",
+    "displayName": "UniMatrix",
+    "description": "Matrix calculation package for Unity",
+    "license": "MIT",
+    "category": "Math",
+    "unity": "2020.3",
+    "dependencies": {}
+}
